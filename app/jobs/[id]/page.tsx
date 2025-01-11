@@ -4,8 +4,8 @@ import { notFound } from 'next/navigation';
 const JOBS = [
   {
     id: 1,
-    title: "Senior Frontend Developer",
-    company: "Tech Corp",
+    title: "Frontend Developer",
+    company: "Learn and Build",
     location: "Remote",
     type: "Full-time",
     salary: "$120k - $150k",
@@ -28,8 +28,8 @@ const JOBS = [
   {
     id: 2,
     title: "Backend Engineer",
-    company: "StartupX",
-    location: "New York, NY",
+    company: "Learn and Build",
+    location: "Jaipur, RJ",
     type: "Full-time",
     salary: "$100k - $130k",
     description: "Looking for a skilled Backend Engineer to join our growing team. You'll be working on scalable systems and microservices architecture.",

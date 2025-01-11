@@ -4,8 +4,8 @@ export default function Home() {
   const featuredJobs = [
     {
       id: 1,
-      title: "Senior Frontend Developer",
-      company: "Tech Corp",
+      title: " Frontend Developer",
+      company: "learn and Build",
       location: "Remote",
       type: "Full-time",
       salary: "$120k - $150k"
@@ -13,8 +13,8 @@ export default function Home() {
     {
       id: 2,
       title: "Backend Engineer",
-      company: "StartupX",
-      location: "New York, NY",
+      company: "Learn and Build",
+      location: "Jaipur, RJ",
       type: "Full-time",
       salary: "$100k - $130k"
     },
@@ -48,7 +48,7 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Featured Jobs Section */}
+      {}
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
         <h2 className="text-3xl font-extrabold text-gray-900 mb-8">Featured Jobs</h2>
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
